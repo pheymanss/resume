@@ -1,0 +1,78 @@
+---
+title: "Philippe Heymans Smith"
+date: "`r Sys.Date()`"
+author: 'Data Analyst'
+output:
+  prettydoc::html_pretty:
+    theme: cayman
+    highlight: github
+---
+
+#### Heredia, Costa Rica ⬝ (+506) 8447-8088 ⬝ pheymanss@gmail.com ⬝ https://goo.gl/EiL5c6
+
+## Objective
+
+
+## Education
+
+Universidad de Costa Rica, School of Mathematics (2013-2018).  
+Bachelor of Science, Actuarial Science.
+
+## Technical Skills
+
+```{r fig.width=6, fig.height=6, fig.align='center'}
+technical_skills <- c(
+  'Advanced knowledge in R development',
+  'Advanced knowledge in data visualization',
+  'Solid knowledge of general design principles',
+  'Solid knowledge in Excel and VBA',
+  'Basic SQL and Python')
+```
+
+## Profesional Experience
+
+**Mastercard SJO Center of Excellence**  
+Associate Analyst, Advanced Analytics.  
+San José, Costa Rica. July 2019 -- Present
+
+*	Development and delivery of advanced analytics products for several financial institutions across the continent, leveraging the hundreds of GB of transactional data the company holds. Deliveries ranged from customer behavioural segmentations, post hoc campaign performance diagnostics, product migration models and data quality assessments, among many other smaller automated reports.
+* All project deliveries included throughout technical and methodological presentations to both internal and external project stakeholders, from mostly non-technichal backgrounds.
+*	Development of two proprietary, in-house, multi-purpose R packages to leverage advanced R programming knowledge and make it immediately accessible to less technically-inclined team members.
+
+**Quanto Soluciones Analíticas y Cuantitativas S.A.**  
+Financial Analyst, Mathematical Modelling Department  
+San José, Costa Rica. April 2018 – July 2019
+
+-	Spearheaded the installation of 10 additional features of a proprietary Liquidity Risk analysis tool for the second largest bank in Costa Rica. 
+-	Provided both technical and methodological support for several financial institutions in the use for the company’s various risk analysis tools.
+-	Maintained an amicable relationship with high profile personnel from our clients as the face of the company.
+
+## Academic Experience
+
+**Generalized Sentiment Scoring of Short Informal Text in Spanish**  
+Natural Language Processing  
+Developed in R, Aug 2016 - July 2017
+
+- Fitting text sentiment scoring into a rigorous mathematical framework, we constructed a signed measure function and created a language-agnostic and category-agnostic text classification tool. 
+
+**Flower Market Analysis Through Google Web Searches**  
+Time Series Analysis  
+Developed in R, Nov 2017 - Dec 2017
+
+- Using basic time series analysis frameworks, we characterized the fluctuations and expected growth rate of the flower market based on time series analysis using web searches of the word “flower”.
+
+**Betting Strategy Evaluation of Online MLB Matches**  
+Backtesting  
+Developed in VBA, Jun 2016 - July 2017
+
+- We simulated the performance of several betting strategies for an individual with no prior sports knowledge, based solely on information that can be subtracted from online betting websites. We developed and tested a modified Martingale strategy which provided a high chance of profit in any subset of the time interval studied. 
+
+## Extracurricular Experience
+
+**TECHO-COSTA RICA**  
+San José, Costa Rica  
+April 2011 – March 2015
+
+-	As the Corporate Volunteering Division Coordinator, I restructured the NGO’s approach to corporate volunteering projects, corporate trainings, project executions, and post-project evaluation.
+-	As a member of the Logistics team, I aidedoversaw and coordinated the logistics of 34 large scale projects, including emergency housing infrastructure (over 200 temporary family houses and 8 community spaces) and 4 country-wide fundraising campaigns.
+-	As coordinator of Staff Management, I led the refinement of the inner processes behind personnel recruiting and requirement standardization for all positions on our short-term projects.
