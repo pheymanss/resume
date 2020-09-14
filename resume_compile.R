@@ -8,5 +8,5 @@ install.packages('webshot')
 webshot::install_phantomjs()
 
 # render file as pdf
-webshot::rmdshot("english.rmd", "en.pdf")
-webshot::rmdshot("spanish.rmd", "es.pdf")
+webshot::rmdshot("english.rmd", "philippe_heymans_smith.pdf")
+webshot::rmdshot("spanish.rmd", "philippe_heymans_smith_es.pdf")

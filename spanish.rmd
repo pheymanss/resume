@@ -10,8 +10,7 @@ output:
 
 #### Heredia, Costa Rica ⬝ (+506) 8447-8088 ⬝ pheymanss@gmail.com ⬝ https://github.com/pheymanss/
 
-## Objetivo
-
+Equipado con un rigor similar a un matemático puro, desarrollé una profunda pasión por la estadística, y reconocí los modelos de machine learning como el pináculo de adonde este conocimiento puede llevarnos. Experimentado en problemas de regresión y clasificación tanto supervisados como no supervisados, apunto a apalancar mis habilidades teóricas y de programación para mejorar las vidas de las personas.
 
 ## Educación
 
@@ -30,8 +29,8 @@ habilidades_tecnicas <- c(
   'Conocimiento avanzado en visalización de datos (con gran dominio de ggplot)',
   'Sólidas habilidades en desarrollo de aplicaciones Shiny',
   'Conocimiento sólido en principios de diseño',
-  'Conocimiento sólido en SQL',
   'Conocimiento sólido en Excel y VBA',
+  'Conocimiento básico en SQL',
   'Conocimiento básico de Python')
 ```
 

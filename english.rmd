@@ -10,8 +10,7 @@ output:
 
 #### Heredia, Costa Rica ⬝ (+506) 8447-8088 ⬝ pheymanss@gmail.com ⬝ https://github.com/pheymanss/
 
-## Objective
-
+Equipped with pure mathematics-level of rigour, I found a deep passion for statistics and recognized machine learning models as the pinnacle of where that knowledge could take us. Experienced in supervised and unsupervised big data classification and regression problems, I strive to leverage my theoretical and programming skills to improve people's lives.
 
 ## Education
 
@@ -30,8 +29,8 @@ technical_skills <- c(
   'Advanced knowledge in data visualization (and high proficiency with ggplot)',
   'Solid Shiny app development skills',
   'Solid knowledge of general design principles',
-  'Solid knowledge of SQL',
   'Solid knowledge of Excel and VBA',
+  'Basic knowledge of SQL',
   'Basic knowledge of Python')
 ```
 
@@ -41,7 +40,7 @@ technical_skills <- c(
 Associate Consultant, Advanced Analytics.  
 San José, Costa Rica. July 2019 -- Present
 
-*	Development and delivery of advanced analytics products for several financial institutions across the continent, leveraging the hundreds of GB of transactional data the company holds. Deliveries ranged from customer behavioral segmentations, post hoc campaign performance diagnostics, product migration models, authorizations and fraud diagnostics, data quality assessments, among many other minor efforts.
+*	Development and delivery of advanced analytics products for several financial institutions across the continent, leveraging the hundreds of GB of transactional data the company holds. Deliveries ranged from customer behavioural segmentations, post hoc campaign performance diagnostics, product migration models, authorizations and fraud diagnostics, data quality assessments, among many other minor efforts.
 * All project deliveries included throughout technical and methodological presentations to both internal and external project stakeholders, from mostly non-technical backgrounds.
 *	Development of two proprietary, in-house, multi-purpose R packages including over 63 fully generalized functions ready to work on any given dataset, aiming to leverage advanced R programming knowledge and make it immediately accessible to less technically-inclined team members.
 * Designed and imparted R trainings for non-specialist teams from the same vertical in Brazil, México, Colombia, Uruguay, Argentina and Costa Rica, along monthly trainings imparted to my own specialist team.
@@ -67,7 +66,7 @@ Developed in R, Aug 2016 - Jul 2017
 Time Series Analysis  
 Developed in R, Nov 2017 - Dec 2017
 
-- Using basic time series analysis frameworks, we characterized the fluctuations and expected growth rate of the flower market based on time series analysis using web searches of the word “flower.”
+- Using basic time series analysis frameworks like ARIMA(p,q) models, we characterized the fluctuations and expected growth rate of the flower market based on time series analysis using web searches of the word “flower.”
 
 **Betting Strategy Evaluation of Online MLB Matches**  
 Backtesting  
