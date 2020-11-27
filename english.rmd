@@ -24,13 +24,22 @@ Bachelor of Science, Actuarial Science.
 
 ```{r fig.width=6, fig.height=6, fig.align='center'}
 technical_skills <- c(
+  'Deep understanding of sophisticated machine learning modelling techniques such as:
+                  - Tree models (tree bosting, Random Forests, XGBoost)
+                  - gradient boosted machines
+                  - DBSCAN
+                  - gaussian mixture clustering
+                  - neural networks
+                  - model ensambling
+                  - encoding',
   'Advanced knowledge in R development (outstanding proficiency with data.table and purrr)',
   'R package development with impeccable documentation',
   'Advanced knowledge in data visualization (and high proficiency with ggplot)',
-  'Solid Shiny app development skills',
+  'Proven experience in big (200MM+) data analysis',
+  'Solid SQL knowledge',
   'Solid knowledge of general design principles',
-  'Solid knowledge of Excel and VBA',
-  'Basic knowledge of SQL',
+  'Solid understanding of distributed file systems',
+  'Solid Shiny app development skills',
   'Basic knowledge of Python')
 ```
 
@@ -40,9 +49,9 @@ technical_skills <- c(
 Associate Consultant, Advanced Analytics.  
 San José, Costa Rica. July 2019 -- Present
 
-*	Development and delivery of advanced analytics products for several financial institutions across the continent, leveraging the hundreds of GB of transactional data the company holds. Deliveries ranged from customer behavioural segmentations, post hoc campaign performance diagnostics, product migration models, authorizations and fraud diagnostics, data quality assessments, among many other minor efforts.
+*	Development and delivery of advanced analytics products for several financial institutions across the continent, leveraging the hundreds of GB of transactional data the company holds. Deliveries ranged from customer behavioural segmentations, post hoc campaign performance diagnostics, product migration models, authorizations and fraud diagnostics, data quality assessments, among many other minor efforts. 
 * All project deliveries included throughout technical and methodological presentations to both internal and external project stakeholders, from mostly non-technical backgrounds.
-*	Development of two proprietary, in-house, multi-purpose R packages including over 63 fully generalized functions ready to work on any given dataset, aiming to leverage advanced R programming knowledge and make it immediately accessible to less technically-inclined team members.
+*	Development of two proprietary, in-house, multi-purpose R packages including over 84 fully generalized functions ready to work on any given dataset, aiming to leverage advanced R programming knowledge and make it immediately accessible to less technically-proficient team members.
 * Designed and imparted R trainings for non-specialist teams from the same vertical in Brazil, México, Colombia, Uruguay, Argentina and Costa Rica, along monthly trainings imparted to my own specialist team.
 
 **Quanto Soluciones Analíticas y Cuantitativas S.A.**  
@@ -74,12 +83,12 @@ Developed in VBA, Jun 2016 - Jul 2016
 
 - We simulated the performance of several betting strategies for an individual with no prior sports knowledge, based solely on information that can be subtracted from online betting websites. We developed and tested a modified Martingale strategy which provided a high chance of profit in any subset of the time interval studied. 
 
-## Extracurricular Experience
+## Experience - Other
 
 **TECHO-COSTA RICA**  
 San José, Costa Rica  
 April 2011 – March 2015
 
 -	As the Corporate Volunteering Division Coordinator, I restructured the NGO’s approach to corporate volunteering projects, corporate trainings, project executions, and post-project evaluation.
--	As a member of the Logistics team, I collaborated in the coordination of 34 large scale projects, including emergency housing infrastructure and country-wide fundraising campaigns.
+-	As a member of the Logistics team, I collaborated in the coordination of 34 medium scale (50-200 people) projects, including emergency housing infrastructure and country-wide fundraising campaigns.
 -	As coordinator of Staff Management, I led the refinement of the inner processes behind personnel recruiting and requirement standardization for all positions on our short-term projects.
