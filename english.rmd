@@ -2,13 +2,10 @@
 title: "Philippe Heymans Smith"
 date: "`r Sys.Date()`"
 author: 'Data Scientist'
-output:
-  prettydoc::html_pretty:
-    theme: cayman
-    highlight: github
+output: rmdformats::downcute
 ---
 
-#### Heredia, Costa Rica ⬝ (+506) 8447-8088 ⬝ pheymanss@gmail.com ⬝ https://github.com/pheymanss/
+#### Heredia, Costa Rica ⬝ (+506) 8447-8088 ⬝ pheymanss@gmail.com ⬝ [github](https://github.com/pheymanss/)
 
 Equipped with pure mathematics-level of rigour, I found a deep passion for statistics and recognized machine learning models as the pinnacle of where that knowledge could take us. Experienced in supervised and unsupervised big data classification and regression problems, I strive to leverage my theoretical and programming skills to improve people's lives.
 
@@ -22,28 +19,33 @@ Bachelor of Science, Actuarial Science.
 
 ## Technical Skills
 
-```{r fig.width=6, fig.height=6, fig.align='center'}
-technical_skills <- c(
-  'Deep understanding of sophisticated machine learning modelling techniques such as:
-                  - Tree models (tree bosting, Random Forests, XGBoost)
-                  - gradient boosted machines
-                  - DBSCAN
-                  - gaussian mixture clustering
-                  - neural networks
-                  - model ensambling
-                  - encoding',
-  'Advanced knowledge in R development (outstanding proficiency with data.table and purrr)',
-  'R package development with impeccable documentation',
-  'Advanced knowledge in data visualization (and high proficiency with ggplot)',
-  'Proven experience in big (200MM+) data analysis',
-  'Solid SQL knowledge',
-  'Solid knowledge of general design principles',
-  'Solid understanding of distributed file systems',
-  'Solid Shiny app development skills',
-  'Basic knowledge of Python')
+```{r fig.width=6, fig.height=6, fig.align='center', eval=FALSE}
+technical_skills <- list(
+  `Deep understanding of machine learning modelling techniques` = 
+    c('Tree models (tree bosting, Random Forests, XGBoost)',
+      'Gradient boosted machines',
+      'DBSCAN',
+      'Gaussian mixture clustering',
+      'Neural networks',
+      'Model ensambling',
+      'Encoding'),
+  `Advanced R development` = 'outstanding proficiency with data.table and purrr',
+  `R package development with impeccable documentation`,
+  `Advanced data visualization` = 'high proficiency with ggplot and R htmlwidgets',
+  `Proven experience in big data analysis` = 'projects with over 200MM records',
+  `Solid SQL knowledge`,
+  `Solid knowledge of general design principles`,
+  `Solid understanding of distributed file systems`,
+  `Solid Shiny app development skills`,
+  `Basic knowledge of Python`)
 ```
 
-## Profesional Experience
+## Professional Experience
+
+**Open Source Development**  
+R Developer  2020 -- Present 
+
+* Author and maintainer of [{chronicle}](https://CRAN.R-project.org/package=chronicle), an R package for creating frictionless R Markdown reports, with a layered syntax inspired by ggplot. Successfully submitted to CRAN on January 21st, 2021, and presented at the Virtual R Users Meetup ConectaR 2021 to rave reviews. 
 
 **Mastercard SJO Center of Excellence**  
 Associate Consultant, Advanced Analytics.  
@@ -82,13 +84,3 @@ Backtesting
 Developed in VBA, Jun 2016 - Jul 2016
 
 - We simulated the performance of several betting strategies for an individual with no prior sports knowledge, based solely on information that can be subtracted from online betting websites. We developed and tested a modified Martingale strategy which provided a high chance of profit in any subset of the time interval studied. 
-
-## Experience - Other
-
-**TECHO-COSTA RICA**  
-San José, Costa Rica  
-April 2011 – March 2015
-
--	As the Corporate Volunteering Division Coordinator, I restructured the NGO’s approach to corporate volunteering projects, corporate trainings, project executions, and post-project evaluation.
--	As a member of the Logistics team, I collaborated in the coordination of 34 medium scale (50-200 people) projects, including emergency housing infrastructure and country-wide fundraising campaigns.
--	As coordinator of Staff Management, I led the refinement of the inner processes behind personnel recruiting and requirement standardization for all positions on our short-term projects.
