@@ -2,7 +2,7 @@
 
 ### Staff Data Scientist · Data & AI SME
 
-📍 San José, Costa Rica · 📞 (+506) 8447-8088 · 📧 pheymanss@gmail.com  
+San José, Costa Rica · (+506) 8447-8088 · pheymanss@gmail.com  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-philippe--heymans--smith-0077B5?logo=linkedin)](https://www.linkedin.com/in/philippe-heymans-smith-7275a8174/)
 [![GitHub](https://img.shields.io/badge/GitHub-pheymanss-181717?logo=github)](https://github.com/pheymanss)
 
@@ -12,19 +12,13 @@ Staff Data Scientist and AI SME with 8+ years of experience building end-to-end 
 
 ---
 
-## 🛠 Skills
+## Skills
 
-| Area | Technologies |
-|---|---|
-| **Generative AI & LLM Systems** | LangGraph · Multi-agent AI frameworks · LLM hallucination mitigation · Prompt engineering · OpenAI / Anthropic APIs |
-| **Machine Learning** | XGBoost / H2O.ai · Propensity modeling · Clustering · Time Series Analysis · Survival Analysis |
-| **Data & Cloud Engineering** | AWS · Snowflake · Python · SQL · MLOps |
-| **R Development** | ggplot2 · Shiny · CRAN package development |
-| **Leadership & Strategy** | Cross-functional team scaling · AI Council advisory · Technical mentorship · ML fairness & ethics |
+LangGraph · Multi-agent AI frameworks · LLM hallucination mitigation · Agent-assisted software development · XGBoost / H2O.ai · Propensity modeling · Clustering · Time Series Analysis · Survival Analysis · AWS · Snowflake · Python · SQL · MLOps · ggplot2 · Shiny · CRAN package development · Cross-functional team scaling · Technical mentorship · ML fairness & ethics
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Growth Acceleration Partners — Staff Data Scientist, Data & AI SME
 *Remote · Aug 2025 – Present*
@@ -66,12 +60,12 @@ Staff Data Scientist and AI SME with 8+ years of experience building end-to-end 
 ### Open Source Development — R Developer
 *Jan 2020 – Present*
 
-- Author and maintainer of [📦 {chronicle}](https://github.com/pheymanss/chronicle), an R package for creating frictionless R Markdown reports with a sequential syntax inspired by `keras`/`ggplot2`. Published to CRAN on January 21st, 2021.
+- Author and maintainer of [{chronicle}](https://github.com/pheymanss/chronicle), an R package for creating frictionless R Markdown reports with a sequential syntax inspired by `keras`/`ggplot2`. Published to CRAN on January 21st, 2021.
 - Presented at ConectaR 2021 and useR! Conference 2021.
 
 ---
 
-## 🎓 Education
+## Education
 
 **Data ScienceTech Institute** — Applied MSc in Data Science & Artificial Intelligence *(2020 – 2023)*
 
