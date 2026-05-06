@@ -8,13 +8,23 @@ San José, Costa Rica · (+506) 8447-8088 · pheymanss@gmail.com
 
 ---
 
-Staff Data Scientist and AI SME with 8+ years of experience building end-to-end ML and GenAI systems in high-stakes healthcare environments. Passionate about scalable architecture, responsible AI, and translating complex machine learning into real organizational impact. Track record of growing cross-functional teams, shipping production-grade LLM agents, and advising enterprise AI strategy.
+Staff Data Scientist and AI Subject Matter Expert with a proven track record of architecting large-scale machine learning pipelines and multi-agent AI systems. Adept at scaling cross-functional teams and translating complex AI capabilities into accessible, high-impact business solutions in healthcare and finance applications.
 
 ---
 
 ## Skills
 
-LangGraph · Multi-agent AI frameworks · LLM hallucination mitigation · Agent-assisted software development · XGBoost / H2O.ai · Propensity modeling · Clustering · Time Series Analysis · Survival Analysis · AWS · Snowflake · Python · SQL · MLOps · ggplot2 · Shiny · CRAN package development · Cross-functional team scaling · Technical mentorship · ML fairness & ethics
+**Machine Learning** · Predictive modeling · Propensity modeling · Clustering · Time series · Model validation
+
+**Generative AI & LLMs** · Multi-agent systems · Prompt engineering · RAG · Hallucination mitigation
+
+**Solution Architecture** · System design · API design · Workflow orchestration · Proof-of-concept development
+
+**Cloud & MLOps** · AWS · Snowflake · Production ML pipelines
+
+**Technical Leadership** · Team scaling · AI strategy · Mentorship · Stakeholder communication
+
+**Healthcare AI** · Audience design · ICD-10/NDC compliance · Regulatory awareness · Clinical data pipelines
 
 ---
 
@@ -23,12 +33,13 @@ LangGraph · Multi-agent AI frameworks · LLM hallucination mitigation · Agent-
 ### Growth Acceleration Partners — Staff Data Scientist, Data & AI SME
 *Remote · Aug 2025 – Present*
 
-- Directed the architectural design and operational excellence of a large-scale healthcare propensity modeling pipeline, scaling a core group of 3 Data Scientists into a cross-functional team of 15 Data Scientists, Data Engineers, and MLOps professionals.
-- Engineered a multi-stage LangGraph AI agent for healthcare audience design with parallel and adversarial validators, compressing project delivery timelines by 10–15x against baseline estimates.
-- Engineered deterministic grounding strategies for domain-sensitive healthcare data to minimize LLM hallucinations, integrating FAISS vector similarity, regex matching, and Pydantic schema validation to ensure accuracy for ICD-10 and NDC codes.
-- Advised enterprise-wide technical strategy as a core member of the AI Council and an AI Garage Judge.
-- Implemented adversarial auto-validation loops using multi-agent AI frameworks to stress-test code deliveries and prevent architectural drift.
-- Upskilled cross-functional teams in AI-fluent development practices, data pipelines, solution architecture, and healthcare compliance.
+- Directed the architectural design and operational excellence of a large-scale, high-stakes healthcare propensity modeling pipeline, scaling a core group of 3 Data Scientists into a robust, cross-functional team of 15 Data Scientists, Data Engineers, and MLOps professionals.
+- Engineered a multi-stage LangGraph AI agent for healthcare audience design with multiple parallel and adversarial validators while compressing project delivery timelines by 10–15x against baseline estimates.
+- Engineered deterministic grounding strategies for domain-sensitive healthcare data to minimize LLM hallucinations, integrating FAISS vector similarity, regex matching, and Pydantic schema validation to ensure absolute accuracy for ICD-10 and NDC codes.
+- Advised enterprise-wide technical strategy as a core member of the AI Council and an AI Garage Judge, consulting on strategic AI implementation, mentoring project leads, and advising on ML pipelines for complex client engagements.
+- Implemented adversarial auto-validation loops utilizing multi-agent AI frameworks, deploying independent generator and validator agents to rigorously stress-test code deliveries, prevent architectural drift, and identify edge cases prior to human sign-off.
+- Transformed highly technical machine learning capabilities into accessible, interactive stakeholder tools by rapidly prototyping complex proof-of-concepts UIs, accelerating cross-departmental alignment and Product team buy-in.
+- Upskilled cross-functional teams in AI-fluent development practices, advanced data science concepts, data pipelines, solution architecture, and healthcare compliance pipelines, scaling execution capacity well beyond our linear headcount growth.
 
 ### Growth Acceleration Partners — Senior Data Scientist, Data Science and AI SME
 *Remote · Jul 2022 – Aug 2025*
@@ -37,7 +48,7 @@ LangGraph · Multi-agent AI frameworks · LLM hallucination mitigation · Agent-
 - Designed and maintained two iterations of an end-to-end modelling tool: the first AWS-native leveraging SageMaker and Athena; the second on Snowflake with an H2O.ai backend coordinated by an internally developed Python API client.
 - Contributed to GAP's AI and cloud strategy, published articles on GenAI ethics, and delivered talks on responsible ML development.
 
-### Growth Acceleration Partners — Advanced Data Scientist, Development US
+### Growth Acceleration Partners — Advanced Data Scientist
 *San José, Costa Rica · Apr 2021 – Jul 2022*
 
 - Developed scoring models for audience design, including research for medical target definitions using ICD standard codification.
@@ -57,11 +68,12 @@ LangGraph · Multi-agent AI frameworks · LLM hallucination mitigation · Agent-
 - Rewrote the R calibration algorithm for Liquidity Risk indicators' sensitivity against macroeconomic indexes.
 - Spearheaded the delivery of 10 additional features for a proprietary Liquidity Risk analysis tool for the second largest bank in Costa Rica.
 
-### Open Source Development — R Developer
-*Jan 2020 – Present*
+---
 
-- Author and maintainer of [{chronicle}](https://github.com/pheymanss/chronicle), an R package for creating frictionless R Markdown reports with a sequential syntax inspired by `keras`/`ggplot2`. Published to CRAN on January 21st, 2021.
-- Presented at ConectaR 2021 and useR! Conference 2021.
+## Open Source
+
+**[{chronicle}](https://github.com/pheymanss/chronicle)** *(2020 – Present)*  
+Author and maintainer of {chronicle}, an R package for creating frictionless R Markdown reports with a sequential syntax inspired by `keras`/`ggplot2`. Published to CRAN on January 21st, 2021. Presented at ConectaR 2021 and useR! Conference 2021.
 
 ---
 
@@ -70,3 +82,20 @@ LangGraph · Multi-agent AI frameworks · LLM hallucination mitigation · Agent-
 **Data ScienceTech Institute** — Applied MSc in Data Science & Artificial Intelligence *(2020 – 2023)*
 
 **Universidad de Costa Rica, School of Mathematics** — BSc in Actuarial Science *(2013 – 2018)*
+
+---
+
+## Certifications
+
+- **Neo4j Certified Professional** — Neo4j *(Mar 2023)*
+- **Microsoft Certified: Azure Fundamentals** — Microsoft *(Nov 2022)*
+- **AWS Certified Solutions Architect – Associate** — Amazon Web Services *(Mar 2022)*
+- **Practical Machine Learning on H2O** — Coursera *(Jul 2020)*
+- **The R Programming Environment** — Coursera *(Jul 2020)*
+
+---
+
+## Languages
+
+- Spanish — Native
+- English — Native
