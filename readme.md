@@ -18,7 +18,7 @@ Staff Data Scientist and AI SME with 8+ years of experience building end-to-end 
 |---|---|
 | **Generative AI & LLM Systems** | LangGraph · Multi-agent AI frameworks · LLM hallucination mitigation · Prompt engineering · OpenAI / Anthropic APIs |
 | **Machine Learning** | XGBoost / H2O.ai · Propensity modeling · Clustering · Time Series Analysis · Survival Analysis |
-| **Data & Cloud Engineering** | AWS SageMaker · Snowflake · Python · SQL · MLOps |
+| **Data & Cloud Engineering** | AWS · Snowflake · Python · SQL · MLOps |
 | **R Development** | ggplot2 · Shiny · CRAN package development |
 | **Leadership & Strategy** | Cross-functional team scaling · AI Council advisory · Technical mentorship · ML fairness & ethics |
 
