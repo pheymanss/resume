@@ -30,8 +30,16 @@ Staff Data Scientist and AI Subject Matter Expert with a proven track record of 
 
 ## Experience
 
+### Growth Acceleration Partners — Data & AI Subject Matter Expert
+*Remote · Aug 2026 – Present*
+- Function as a thought leader in the AI space for the company, involved in most AI initiatives ranging from market strategy, client engagements, solutions architecture, agentic orchestration, and capability training. With particular care around responsible AI use and compliance.
+- Formulated the strategic communication and core messaging for GAP’s Data & AI Readiness go-to-market framework, directly aligning advanced technical capabilities with client-specific business pain points.
+- Engineered the company-wide AI evaluation framework, establishing rigorous, standardized metrics to assess and elevate AI fluency across the organization.
+- Architected an internal parametric estimation and risk framework to accurately size, price, and sequence complex autonomous engineering and enterprise AI client engagements.
+- Accelerated organizational AI adoption by developing and delivering comprehensive training curricula, upskilling both technical engineering teams and non-technical stakeholders on modern AI capabilities.
+
 ### Growth Acceleration Partners — Staff Data Scientist, Data & AI SME
-*Remote · Aug 2025 – Present*
+*Remote · Aug 2025 – Aug 2026*
 
 - Directed the architectural design and operational excellence of a large-scale, high-stakes healthcare propensity modeling pipeline, scaling a core group of 3 Data Scientists into a robust, cross-functional team of 15 Data Scientists, Data Engineers, and MLOps professionals.
 - Engineered a multi-stage LangGraph AI agent for healthcare audience design with multiple parallel and adversarial validators while compressing project delivery timelines by 10–15x against baseline estimates.

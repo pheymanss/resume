@@ -1,6 +1,7 @@
 {
   "picture": {
     "hidden": true,
+    "fit": "cover",
     "url": "",
     "size": 64,
     "rotation": 0,
@@ -32,35 +33,70 @@
   },
   "summary": {
     "title": "Summary",
+    "icon": "",
     "columns": 1,
     "hidden": false,
+    "showHeading": true,
+    "keepTogether": false,
+    "startOnNewPage": false,
     "content": "<p><span style=\"color: rgba(0, 0, 0, 0.9);\">Staff Data Scientist and AI Subject Matter Expert with a proven track record of architecting large-scale machine learning pipelines and multi-agent AI systems. Adept at scaling cross-functional teams and translating complex AI capabilities into accessible, high-impact business solutions in healthcare and finance applications.</span></p>"
   },
   "sections": {
     "profiles": {
       "title": "Profiles",
+      "icon": "",
       "columns": 1,
       "hidden": true,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
       "items": []
     },
     "experience": {
       "title": "Experience",
+      "icon": "",
       "columns": 1,
       "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
       "items": [
+        {
+          "id": "01a169c4-2a60-7108-b10b-e10da5545322",
+          "hidden": false,
+          "company": "Growth Acceleration Partners",
+          "position": "Data & AI Subject Matter Expert",
+          "location": "Remote",
+          "period": "Aug 2026 – Present",
+          "dates": {
+            "start": "2026-08",
+            "end": null,
+            "present": true
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "<ul><li><p data-resume-whitespace=\"preserve\">Function as a thought leader in the AI space for the company, involved in most AI initiatives ranging from market strategy, client engagements, solutions architecture, agentic orchestration, and capability training. With particular care around responsible AI use and compliance.</p></li><li><p data-resume-whitespace=\"preserve\">Formulated the strategic communication and core messaging for GAP’s Data &amp; AI Readiness go-to-market framework, directly aligning advanced technical capabilities with client-specific business pain points.</p></li><li><p data-resume-whitespace=\"preserve\">Engineered the company-wide AI evaluation framework, establishing rigorous, standardized metrics to assess and elevate AI fluency across the organization.</p></li><li><p data-resume-whitespace=\"preserve\">Architected an internal parametric estimation and risk framework to accurately size, price, and sequence complex autonomous engineering and enterprise AI client engagements.</p></li><li><p data-resume-whitespace=\"preserve\">Accelerated organizational AI adoption by developing and delivering comprehensive training curricula, upskilling both technical engineering teams and non-technical stakeholders on modern AI capabilities.</p></li></ul><p></p>",
+          "roles": []
+        },
         {
           "id": "gap-staff",
           "hidden": false,
-          "options": {
-            "showLinkInTitle": false
-          },
           "company": "Growth Acceleration Partners",
           "position": "Staff Data Scientist — Data & AI SME",
           "location": "Remote",
           "period": "Aug 2025 – Present",
+          "dates": {
+            "start": "2025-08",
+            "end": null,
+            "present": true
+          },
           "website": {
             "url": "",
-            "label": ""
+            "label": "",
+            "inlineLink": false
           },
           "description": "<ul><li>Directed the architectural design and operational excellence of a large-scale, high-stakes healthcare propensity modeling pipeline, scaling a core group of 3 Data Scientists into a robust, cross-functional team of 15 Data Scientists, Data Engineers, and MLOps professionals.</li><li>Engineered a multi-stage LangGraph AI agent for healthcare audience design with multiple parallel and adversarial validators while compressing project delivery timelines by 10–15x against baseline estimates.</li><li>Engineered deterministic grounding strategies for domain-sensitive healthcare data to minimize LLM hallucinations, integrating FAISS vector similarity, regex matching, and Pydantic schema validation to ensure absolute accuracy for ICD-10 and NDC codes.</li><li>Advised enterprise-wide technical strategy as a core member of the AI Council and an AI Garage Judge, consulting on strategic AI implementation, mentoring project leads, and advising on ML pipelines for complex client engagements.</li><li>Implemented adversarial auto-validation loops utilizing multi-agent AI frameworks, deploying independent generator and validator agents to rigorously stress-test code deliveries, prevent architectural drift, and identify edge cases prior to human sign-off.</li><li>Transformed highly technical machine learning capabilities into accessible, interactive stakeholder tools by rapidly prototyping complex proof-of-concepts UIs, accelerating cross-departmental alignment and Product team buy-in.</li><li>Upskilled cross-functional teams in AI-fluent development practices, advanced data science concepts, data pipelines, solution architecture, and healthcare compliance pipelines, scaling execution capacity well beyond our linear headcount growth.</li></ul>",
           "roles": []
@@ -68,16 +104,19 @@
         {
           "id": "gap-senior",
           "hidden": false,
-          "options": {
-            "showLinkInTitle": false
-          },
           "company": "Growth Acceleration Partners",
           "position": "Senior Data Scientist — Data Science and AI SME",
           "location": "Remote",
           "period": "Jul 2022 – Aug 2025",
+          "dates": {
+            "start": "2022-07",
+            "end": "2025-08",
+            "present": false
+          },
           "website": {
             "url": "",
-            "label": ""
+            "label": "",
+            "inlineLink": false
           },
           "description": "<ul><li>Project lead of client’s healthcare modelling initiative.</li><li>Designed and maintained two iterations of an end-to-end modelling tool: the first AWS-native leveraging SageMaker and Athena; the second on Snowflake with an H2O.ai backend coordinated by an internally developed Python API client.</li><li>Contributed to GAP’s AI and cloud strategy, published articles on GenAI ethics, and delivered talks on responsible ML development.</li></ul>",
           "roles": []
@@ -85,16 +124,19 @@
         {
           "id": "gap-advanced",
           "hidden": false,
-          "options": {
-            "showLinkInTitle": false
-          },
           "company": "Growth Acceleration Partners",
           "position": "Advanced Data Scientist",
           "location": "San José, Costa Rica",
           "period": "Apr 2021 – Jul 2022",
+          "dates": {
+            "start": "2021-04",
+            "end": "2022-07",
+            "present": false
+          },
           "website": {
             "url": "",
-            "label": ""
+            "label": "",
+            "inlineLink": false
           },
           "description": "<ul><li>Developed scoring models for audience design, including research for medical target definitions using ICD standard codification.</li><li>Built a dynamic SQL querying tool that automated query building for all target definition approaches.</li><li>Established collaboration channels with universities and women-led STEM organizations through the Analytics Center of Excellence.</li></ul>",
           "roles": []
@@ -102,16 +144,19 @@
         {
           "id": "mastercard",
           "hidden": false,
-          "options": {
-            "showLinkInTitle": false
-          },
           "company": "Mastercard SJO Center of Excellence",
           "position": "Associate Consultant, Advanced Analytics",
           "location": "San José, Costa Rica",
           "period": "Jul 2019 – Apr 2021",
+          "dates": {
+            "start": "2019-07",
+            "end": "2021-04",
+            "present": false
+          },
           "website": {
             "url": "",
-            "label": ""
+            "label": "",
+            "inlineLink": false
           },
           "description": "<ul><li>Delivered advanced analytics products for financial institutions across Latin America, including segmentations, campaign diagnostics, product migration models, and fraud diagnostics.</li><li>Developed two proprietary in-house R packages with 84+ generalized functions, making advanced R capabilities accessible across the team.</li><li>Designed and delivered R training programs for non-specialist teams in Brazil, México, Colombia, Uruguay, Argentina, and Costa Rica.</li></ul>",
           "roles": []
@@ -119,16 +164,19 @@
         {
           "id": "quanto",
           "hidden": false,
-          "options": {
-            "showLinkInTitle": false
-          },
           "company": "Quanto Soluciones Analíticas y Cuantitativas S.A.",
           "position": "Financial Analyst, Mathematical Modeling Department",
           "location": "San José, Costa Rica",
           "period": "Apr 2018 – Jul 2019",
+          "dates": {
+            "start": "2018-04",
+            "end": "2019-07",
+            "present": false
+          },
           "website": {
             "url": "",
-            "label": ""
+            "label": "",
+            "inlineLink": false
           },
           "description": "<ul><li>Rewrote the R calibration algorithm for Liquidity Risk indicators’ sensitivity against macroeconomic indexes.</li><li>Spearheaded the delivery of 10 additional features for a proprietary Liquidity Risk analysis tool for the second largest bank in Costa Rica.</li></ul>",
           "roles": []
@@ -137,42 +185,52 @@
     },
     "education": {
       "title": "Education",
+      "icon": "",
       "columns": 1,
       "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
       "items": [
         {
           "id": "dsti",
           "hidden": false,
-          "options": {
-            "showLinkInTitle": false
-          },
           "school": "Data ScienceTech Institute",
           "degree": "Applied MSc",
           "area": "Data Science & Artificial Intelligence",
           "grade": "",
           "location": "",
           "period": "2020 – 2023",
+          "dates": {
+            "start": "2020",
+            "end": "2023",
+            "present": false
+          },
           "website": {
             "url": "",
-            "label": ""
+            "label": "",
+            "inlineLink": false
           },
           "description": ""
         },
         {
           "id": "ucr",
           "hidden": false,
-          "options": {
-            "showLinkInTitle": false
-          },
           "school": "Universidad de Costa Rica, School of Mathematics",
           "degree": "Bachelor of Science",
           "area": "Actuarial Science",
           "grade": "",
           "location": "",
           "period": "2013 – 2018",
+          "dates": {
+            "start": "2013",
+            "end": "2018",
+            "present": false
+          },
           "website": {
             "url": "",
-            "label": ""
+            "label": "",
+            "inlineLink": false
           },
           "description": ""
         }
@@ -180,20 +238,27 @@
     },
     "projects": {
       "title": "Open Source",
+      "icon": "",
       "columns": 1,
       "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
       "items": [
         {
           "id": "chronicle",
           "hidden": false,
-          "options": {
-            "showLinkInTitle": true
-          },
           "name": "{chronicle}",
           "period": "2020 – Present",
+          "dates": {
+            "start": "2020",
+            "end": null,
+            "present": true
+          },
           "website": {
             "url": "https://github.com/pheymanss/chronicle",
-            "label": "github.com/pheymanss/chronicle"
+            "label": "github.com/pheymanss/chronicle",
+            "inlineLink": false
           },
           "description": "Author and maintainer of {chronicle}, an R package for creating frictionless R Markdown reports with a sequential syntax inspired by keras/ggplot2. Published to CRAN on January 21st, 2021. Presented at ConectaR 2021 and useR! Conference 2021."
         }
@@ -201,88 +266,120 @@
     },
     "skills": {
       "title": "Skills",
+      "icon": "",
       "columns": 2,
       "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
       "items": [
         {
           "id": "s1",
           "hidden": false,
-          "options": { "showLinkInTitle": false },
           "icon": "",
           "iconColor": "",
           "name": "Machine Learning",
           "proficiency": "",
           "level": 0,
-          "keywords": ["Predictive modeling", "Propensity modeling", "Clustering", "Time series", "Model validation"]
+          "keywords": [
+            "Predictive modeling",
+            "Propensity modeling",
+            "Clustering",
+            "Time series",
+            "Model validation"
+          ]
         },
         {
           "id": "s2",
           "hidden": false,
-          "options": { "showLinkInTitle": false },
           "icon": "",
           "iconColor": "",
           "name": "Generative AI & LLMs",
           "proficiency": "",
           "level": 0,
-          "keywords": ["Multi-agent systems", "Prompt engineering", "RAG", "Hallucination mitigation"]
+          "keywords": [
+            "Multi-agent systems",
+            "Prompt engineering",
+            "RAG",
+            "Hallucination mitigation"
+          ]
         },
         {
           "id": "s3",
           "hidden": false,
-          "options": { "showLinkInTitle": false },
           "icon": "",
           "iconColor": "",
           "name": "Solution Architecture",
           "proficiency": "",
           "level": 0,
-          "keywords": ["System design", "API design", "Workflow orchestration", "Proof-of-concept development"]
+          "keywords": [
+            "System design",
+            "API design",
+            "Workflow orchestration",
+            "Proof-of-concept development"
+          ]
         },
         {
           "id": "s4",
           "hidden": false,
-          "options": { "showLinkInTitle": false },
           "icon": "",
           "iconColor": "",
           "name": "Cloud & MLOps",
           "proficiency": "",
           "level": 0,
-          "keywords": ["AWS SageMaker", "Snowflake", "Athena", "Production ML pipelines"]
+          "keywords": [
+            "AWS SageMaker",
+            "Snowflake",
+            "Athena",
+            "Production ML pipelines"
+          ]
         },
         {
           "id": "s5",
           "hidden": false,
-          "options": { "showLinkInTitle": false },
           "icon": "",
           "iconColor": "",
           "name": "Technical Leadership",
           "proficiency": "",
           "level": 0,
-          "keywords": ["Team scaling", "AI strategy", "Mentorship", "Stakeholder communication"]
+          "keywords": [
+            "Team scaling",
+            "AI strategy",
+            "Mentorship",
+            "Stakeholder communication"
+          ]
         },
         {
           "id": "s6",
           "hidden": false,
-          "options": { "showLinkInTitle": false },
           "icon": "",
           "iconColor": "",
           "name": "Healthcare AI",
           "proficiency": "",
           "level": 0,
-          "keywords": ["Audience design", "ICD-10/NDC compliance", "Regulatory awareness", "Clinical data pipelines"]
+          "keywords": [
+            "Audience design",
+            "ICD-10/NDC compliance",
+            "Regulatory awareness",
+            "Clinical data pipelines"
+          ]
         }
-      ]
+      ],
+      "keywordLayout": "inline",
+      "layout": "default"
     },
     "languages": {
       "title": "Languages",
+      "icon": "",
       "columns": 1,
       "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
       "items": [
         {
           "id": "lang-es",
           "hidden": false,
-          "options": {
-            "showLinkInTitle": false
-          },
           "language": "Spanish",
           "fluency": "Native",
           "level": 0
@@ -290,9 +387,6 @@
         {
           "id": "lang-en",
           "hidden": false,
-          "options": {
-            "showLinkInTitle": false
-          },
           "language": "English",
           "fluency": "Native",
           "level": 0
@@ -301,89 +395,153 @@
     },
     "interests": {
       "title": "Interests",
+      "icon": "",
       "columns": 1,
       "hidden": true,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
       "items": []
     },
     "awards": {
       "title": "Awards",
+      "icon": "",
       "columns": 1,
       "hidden": true,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
       "items": []
     },
     "certifications": {
       "title": "Certifications",
+      "icon": "",
       "columns": 1,
       "hidden": false,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
       "items": [
         {
-          "id": "cert-neo4j",
+          "id": "cert-aws",
           "hidden": false,
-          "options": { "showLinkInTitle": false },
-          "title": "Neo4j Certified Professional",
-          "issuer": "Neo4j",
-          "date": "Mar 2023",
-          "website": { "url": "", "label": "" },
-          "description": ""
+          "title": "AWS Certified Solutions Architect – Associate",
+          "issuer": "Amazon Web Services (AWS)",
+          "date": "Mar 2022",
+          "dates": {
+            "start": "2022-03",
+            "end": null,
+            "present": false
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": "Credential ID: DDPQJ13DGJ11Q89T"
         },
         {
           "id": "cert-azure",
           "hidden": false,
-          "options": { "showLinkInTitle": false },
           "title": "Microsoft Certified: Azure Fundamentals",
           "issuer": "Microsoft",
           "date": "Nov 2022",
-          "website": { "url": "", "label": "" },
+          "dates": {
+            "start": "2022-11",
+            "end": null,
+            "present": false
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
           "description": ""
         },
         {
-          "id": "cert-aws",
+          "id": "cert-neo4j",
           "hidden": false,
-          "options": { "showLinkInTitle": false },
-          "title": "AWS Certified Solutions Architect – Associate",
-          "issuer": "Amazon Web Services (AWS)",
-          "date": "Mar 2022",
-          "website": { "url": "", "label": "" },
-          "description": "Credential ID: DDPQJ13DGJ11Q89T"
+          "title": "Neo4j Certified Professional",
+          "issuer": "Neo4j",
+          "date": "Mar 2023",
+          "dates": {
+            "start": "2023-03",
+            "end": null,
+            "present": false
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
+          "description": ""
         },
         {
           "id": "cert-h2o",
           "hidden": false,
-          "options": { "showLinkInTitle": false },
           "title": "Practical Machine Learning on H2O",
           "issuer": "Coursera",
           "date": "Jul 2020",
-          "website": { "url": "", "label": "" },
+          "dates": {
+            "start": "2020-07",
+            "end": null,
+            "present": false
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
           "description": "Credential ID: 9VEDDWAYKPDP"
         },
         {
           "id": "cert-r",
           "hidden": false,
-          "options": { "showLinkInTitle": false },
           "title": "The R Programming Environment",
           "issuer": "Coursera",
           "date": "Jul 2020",
-          "website": { "url": "", "label": "" },
+          "dates": {
+            "start": "2020-07",
+            "end": null,
+            "present": false
+          },
+          "website": {
+            "url": "",
+            "label": "",
+            "inlineLink": false
+          },
           "description": "Credential ID: CVC7VKML283X"
         }
       ]
     },
     "publications": {
       "title": "Publications",
+      "icon": "",
       "columns": 1,
       "hidden": true,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
       "items": []
     },
     "volunteer": {
       "title": "Volunteering",
+      "icon": "",
       "columns": 1,
       "hidden": true,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
       "items": []
     },
     "references": {
       "title": "References",
+      "icon": "",
       "columns": 1,
       "hidden": true,
+      "showHeading": true,
+      "keepTogether": false,
+      "startOnNewPage": false,
       "items": []
     }
   },
@@ -414,18 +572,17 @@
         }
       ]
     },
-    "css": {
-      "enabled": false,
-      "value": ""
-    },
     "page": {
       "gapX": 15,
-      "gapY": 15,
+      "gapY": 4,
       "marginX": 36,
       "marginY": 36,
-      "format": "free-form",
+      "format": "letter",
       "locale": "en-US",
-      "hideIcons": false
+      "dateFormat": "short",
+      "hideLinkUnderline": false,
+      "hideIcons": false,
+      "hideSectionIcons": true
     },
     "design": {
       "level": {
@@ -444,18 +601,19 @@
         "fontWeights": [
           "400"
         ],
-        "fontSize": 10,
-        "lineHeight": 1.5
+        "fontSize": 9.5,
+        "lineHeight": 1.35
       },
       "heading": {
         "fontFamily": "Inter",
         "fontWeights": [
           "600"
         ],
-        "fontSize": 12,
+        "fontSize": 11.5,
         "lineHeight": 1.3
       }
     },
-    "notes": ""
+    "notes": "",
+    "styleRules": []
   }
 }
